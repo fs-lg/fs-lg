@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fs-lg
+¹- 👋 Hi, I’m @fs-lg
 - 👀 I’m a student of university 
-- 🌱 I’m currently learning front-end programing 
+- 🌱 I’m currently learning java programing 
 - 💞️ I’m interested in AI 
